@@ -1,0 +1,25 @@
+
+body {
+    background-color: beige;
+    text-align: center;
+    color: brown;
+    font-family: Arial;
+}
+
+h1 {
+    background-color: orange;
+    color: white;
+}
+
+h2 {
+    color: red;
+}
+
+img {
+    width: 200px;
+}
+
+button {
+    background-color: orange;
+    padding: 10px;
+}
